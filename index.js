@@ -282,6 +282,6 @@ window.addEventListener('keydown', (e) => {
     (e.key==' ')&&play();
 });
 
-initPickr();
-play();
-initGrid(true);
+initPickr()
+play()
+initGrid(true)
